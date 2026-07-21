@@ -1,8 +1,8 @@
-# Daily Risk Snapshot — 2026-07-17
+# Daily Risk Snapshot — 2026-07-20
 
-**Best mover:** CSCO (+2.08%)
-**Worst mover:** META (-2.79%)
-**Top risk-adjusted performer (trailing window):** JNJ (Sharpe 2.59)
+**Best mover:** MSFT (+2.15%)
+**Worst mover:** TSLA (-2.96%)
+**Top risk-adjusted performer (trailing window):** JNJ (Sharpe 2.48)
 
 **No new anomaly flags today.**
 
